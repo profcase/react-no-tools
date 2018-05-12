@@ -1,0 +1,19 @@
+button {
+  color: white;
+  border: none;
+   padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+#btn1 {
+  background-color:rgb(6, 221, 6)
+}
+#btn2 {
+  background-color: rgb(42, 73, 250)
+}
+article {
+  background-color: whitesmoke
+}
